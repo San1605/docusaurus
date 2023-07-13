@@ -26,7 +26,7 @@ const sidebars = {
       ],
     },
     {
-      type: 'category link   ',
+      type: 'categorysta ',
       label: 'Guides',
       link: {
         type: 'generated-index',
